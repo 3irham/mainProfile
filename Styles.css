@@ -394,7 +394,7 @@
     rgba(0, 0, 0, 0) 0%,
     rgba(17, 17, 17, 0.6) 100%
     ),
-    url('images/pic4.jpg');
+    url('https://backpackerjakarta.com/wp-content/uploads/2018/01/jembatan-pasupati-bandung.jpg');
   background-size: cover;
   position: relative;
   color: #fff;
@@ -406,7 +406,7 @@
     rgba(0, 0, 0, 0) 0%,
     rgba(17, 17, 17, 0.6) 100%
     ),
-    url('images/pic3.png');
+    url('https://bisnisdigital.upi.edu/wp-content/uploads/2019/06/cropped-Logonyasaja-1-1.png');
 }
 
 .services h2 {
